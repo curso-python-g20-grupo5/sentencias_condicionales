@@ -5,8 +5,8 @@ Aquí presentamos nuestra tarea con la actividad 1 y 2
 ## Descripción del proyecto
 
 Este repositorio está compuesto por dos archivos: 
-  - "calculo_imc.py": este corresponde a la Actividad 1 - IMC. En donde creamos el programa imc.py que permita calcular el IMC de una persona.
-  - "cachipun.py": este archivo corresponde a la Actividad 2 - Cachipún. Se pide crear el programa cachipun.py, donde el usuario entregará como argumento: piedra, papel o tijera. Para que el computador pueda jugar escogerá un valor al azar.
+  - "calculo_imc.py": este corresponde a la Actividad 1 - IMC. El programa imc.py que permite calcular el IMC de una persona.
+  - "cachipun.py": este archivo corresponde a la Actividad 2 - Cachipún. Aquí se crea el programa cachipun.py, donde el usuario entregará como argumento: piedra, papel o tijera. Para que el computador pueda jugar escogerá un valor al azar.
 
 ## Autores y Autoras
 
