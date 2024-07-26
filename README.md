@@ -14,6 +14,6 @@ Este repositorio está compuesto por dos archivos:
 - [Valery Maragaño](https://github.com/Valyxp)
 - [Marco Alvarado](https://github.com/7pixel-cl)
 - [Esteban Hernández](https://github.com/stivhc)
-- [Claudia Aguayo]()
+- [Claudia Aguayo](https://github.com/aguayo40)
 
 ⌨️ con ❤️ por el Grupo 5 - G20 😊
